@@ -6,22 +6,26 @@ import CounterUp2 from "@/components/sections/counters/CounterUp2";
 import Features4 from "@/components/sections/features/Features4";
 import Features5 from "@/components/sections/features/Features5";
 import Hero2 from "@/components/sections/hero-banners/Hero2";
-import FeaturedProducts from "@/components/sections/products/FeaturedProducts";
-import Products3 from "@/components/sections/products/Products3";
+import HotDeal3 from "@/components/sections/hot-deals/HotDeal3";
+import Testimonials3 from "@/components/sections/testimonils/Testimonials3";
+import Video from "@/components/sections/videos/Video";
 
-const Main = () => {
+const MainPage = () => {
   return (
     <main>
       <Hero2 />
       <Features5 />
       <About5 />
       <Categories3 />
-      <CounterUp2 />
+      <CounterUp2 />      
+      <HotDeal3 />
       <CallToAction2 />
+      <Video />
+      <Testimonials3 />
       <Blogs2 type={2} pb={"pb-70"} />
       <Features4 type={2} mb={" mb-120"} />
     </main>
   );
 };
 
-export default Main;
+export default MainPage;

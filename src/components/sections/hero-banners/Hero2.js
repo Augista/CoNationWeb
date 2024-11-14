@@ -22,22 +22,21 @@ const Hero2 = () => {
                           <i className="fa fa-play"></i>
                         </Link>
                       </div>
-                      <h6 className="slide-sub-title animated">
+                      <h6 className="slide-sub-title animated text-white">
                         <Image
                           width={29}
                           height={27}
-                          src="/img/icons/icon-img/1.png"
+                          src="/img/coffee/beans1-min.png"
                           alt="#"
                         />{" "}
                         100% genuine Products
                       </h6>
-                      <h1 className="slide-title animated ">
-                        Our {"Garden's"} Most <br /> Favorite Food
+                      <h1 className="slide-title animated text-white">
+                        Our Most <br /> Favorite Coffee
                       </h1>
                       <div className="slide-brief animated">
-                        <p>
-                          Lorem ipsum dolor sit amet, consectetur adipisicing
-                          elit, sed do eiusmod tempor incididunt ut labore.
+                        <p className="text-white">
+                          Our Special beans with signature form across area in Indonesia
                         </p>
                       </div>
                       <div className="btn-wrapper animated">
@@ -52,7 +51,7 @@ const Hero2 = () => {
                   </div>
                   <div className="slide-item-img">
                     <Image
-                      src="/img/slider/21.png"
+                      src="/img/coffee/beans1-min.png"
                       alt="#"
                       width={1100}
                       height={801}
@@ -72,10 +71,10 @@ const Hero2 = () => {
                   <div className="slide-item-info">
                     <div className="slide-item-info-inner ltn__slide-animation">
                       <h6 className="slide-sub-title ltn__secondary-color animated">
-                        {"//"} TALENTED ENGINEER & MECHANICS
+                        {"//"} Fresh from farm
                       </h6>
                       <h1 className="slide-title animated ">
-                        Tasty & Healthy <br /> Organic Food
+                        Tasty & Special <br /> Organic Beans
                       </h1>
                       <div className="slide-brief animated">
                         <p>
@@ -101,7 +100,7 @@ const Hero2 = () => {
                   </div>
                   <div className="slide-item-img slide-img-left">
                     <Image
-                      src="/img/slider/22.png"
+                      src="/img/coffee/beans2-min.png"
                       alt="#"
                       width={694}
                       height={605}
