@@ -36,7 +36,7 @@ const CallToAction2 = () => {
         </div>
       </div>
       <div className="ltn__call-to-4-img-1">
-        <Image src="/img/bg/12.png" width={631} height={1000} alt="#" />
+        <Image src="/img/coffee/beanskarung.png" width={631} height={1000} alt="#" />
       </div>
       <div className="ltn__call-to-4-img-2">
         <Image src="/img/bg/11.png" width={514} height={1000} alt="#" />

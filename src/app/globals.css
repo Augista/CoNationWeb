@@ -6217,13 +6217,13 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   align-self: center;
 }
 .special-link a {
-  background-color: var(--ltn__secondary-color);
+  background-color: #004AAD;
   color: var(--white) !important;
   padding: 12px 30px !important;
 }
 .special-link a:hover {
-  background-color: var(--ltn__secondary-color-2);
-  color: var(--white) !important;
+  background-color: #9E807C;
+  color: #ffffff !important;
 }
 
 .menu-color-white .ltn__main-menu > ul > li > a {
@@ -15601,7 +15601,7 @@ input.cart-plus-minus-box {
 }
 
 .theme-btn-1 {
-  background-color: var(--ltn__secondary-color);
+  background-color: #9E807C;
   color: var(--white);
 }
 .theme-btn-1:hover {
