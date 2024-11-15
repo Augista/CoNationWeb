@@ -14,7 +14,7 @@ const HotDeal3 = () => {
             <div className="call-to-action-inner call-to-action-inner-4 text-color-white--- text-center---">
               <div className="section-title-area ltn__section-title-2 text-center---">
                 <h6 className="ltn__secondary-color">Todays Hot Deals</h6>
-                <h1 className="section-title">
+                <h1 className="section-title text-white">
                   Special Signature <br /> Arabica Brazilians beans
                 </h1>
               </div>

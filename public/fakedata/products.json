@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Red Hot Tomato",
+    "title": "Arabica Jawa",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae asperiores sit odit nesciunt, aliquid, deleniti non et ut dolorem!",
     "featured": true,
     "price": 162,
@@ -11,7 +11,7 @@
     "status": "new",
     "collection": "Food & Drinks",
     "category": "hot sale",
-    "type": "Vegetables",
+    "type": "Arabica",
     "size": "S",
     "color": "navy",
     "tags": ["popular", "desgin", "develop", "icon"],
@@ -26,7 +26,7 @@
   },
   {
     "id": 2,
-    "title": "Vegetables Juices",
+    "title": "Gayo",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae asperiores sit odit nesciunt, aliquid, deleniti non et ut dolorem!",
     "featured": true,
     "price": 85,
@@ -51,7 +51,7 @@
   },
   {
     "id": 3,
-    "title": "Orange Fresh Juice",
+    "title": "Robusta",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae asperiores sit odit nesciunt, aliquid, deleniti non et ut dolorem!",
     "featured": true,
     "price": 92,
@@ -76,7 +76,7 @@
   },
   {
     "id": 4,
-    "title": "Poltry Farm Meat",
+    "title": "Excelsa",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae asperiores sit odit nesciunt, aliquid, deleniti non et ut dolorem!",
     "featured": true,
     "price": 78,

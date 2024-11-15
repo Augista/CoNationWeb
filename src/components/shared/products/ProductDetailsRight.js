@@ -111,12 +111,12 @@ const ProductDetailsRight = ({ product }) => {
               !type ? controlModal() : "";
             }}
           >
-            <strong>Categories:</strong>{" "}
+            <strong>Cupping Note:</strong>{" "}
             <span>
-              <Link href="/shop?category=fruits">Fruits</Link>{" "}
-              <Link href="/shop?category=meat">Meat</Link>{" "}
-              <Link href="/shop?category=fish">Fish</Link>{" "}
-              <Link href="/shop?category=fried">Fried</Link>
+              <Link href="/shop?category=fruity">Fruity</Link>{" "}
+              <Link href="/shop?category=savory">Savory</Link>{" "}
+              <Link href="/shop?category=chocolate">Chocolate</Link>{" "}
+              <Link href="/shop?category=floral">Floral</Link>
             </span>
           </li>
         </ul>

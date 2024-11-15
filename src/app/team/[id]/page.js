@@ -1,4 +1,3 @@
-import TeamDetailsMain from "@/components/layout/main/TeamDetailsMain";
 import PageWrapper from "@/components/shared/wrappers/PageWrapper";
 import getTeamMembers from "@/libs/getTeamMembers";
 import { notFound } from "next/navigation";
@@ -19,7 +18,6 @@ const TeamDetails = ({ params }) => {
       isTextWhite={true}
       isNavbarAppointmentBtn={true}
     >
-      <TeamDetailsMain />
     </PageWrapper>
   );
 };

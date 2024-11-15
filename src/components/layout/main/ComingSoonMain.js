@@ -5,24 +5,27 @@ const ComingSoonMain = () => {
   return (
     <div
       className="ltn__coming-soon-area ltn__primary-bg text-color-white bg-image bg-overlay-theme-black-70"
-      data-bs-bg="/img/slider/11.jpg"
+      data-bs-bg="/img/service/1.jpg"
     >
       <div className="container">
         <div className="row">
           <div className="col-lg-12">
             <div className="coming-soon-inner">
               <div className="section-title-area ltn__section-title-2">
-                <h6 className="section-subtitle ltn__secondary-color">
-                  {"//"} Welcome to you
+                <img src="/img/logo.png"
+                width={150} >
+                </img>
+                <h6 className="ltn__secondary-color">
+                  Co-Nation
                 </h6>
                 <h1 className="section-title white-color">
                   We Are Coming Soon
                 </h1>
-                <h5 className="ltn__secondary-color">June 26, 2026</h5>
+                <h5 className="ltn__secondary-color">27 November, 2024</h5>
               </div>
               <div
                 className="ltn__countdown  mb-20"
-                data-countdown="2026/06/26"
+                data-countdown="2024/11/27"
               ></div>
 
               <div className="ltn__newsletter-inner mt-50">
@@ -44,7 +47,7 @@ const ComingSoonMain = () => {
               <div className="btn-wrapper mt-50">
                 <Link
                   href="/contact"
-                  className="btn theme-btn-2 btn-effect-2 text-uppercase"
+                  className="btn ltn__secondary-color btn-effect-2 text-uppercase"
                 >
                   Contact Us
                 </Link>

@@ -9,7 +9,7 @@ const About5 = ({ pt }) => {
           <div className="col-lg-6 align-self-center">
             <div className="about-us-img-wrap about-img-left">
               <Image
-                src="/img/others/6.png"
+                src="/img/logo.png"
                 alt="About Us Image"
                 width={570}
                 height={531}
@@ -20,15 +20,13 @@ const About5 = ({ pt }) => {
             <div className="about-us-info-wrap">
               <div className="section-title-area ltn__section-title-2">
                 <h6 className="section-subtitle ltn__secondary-color">
-                  Know More About Shop
+                  Know More About Co-Nation
                 </h6>
                 <h1 className="section-title">
-                  Trusted Organic <br className="d-none d-md-block" /> Food
-                  Store
+                  Co <br className="d-none d-md-block" /> Nation
                 </h1>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore
+                comes from the "Coffee Nation" which means we want to introduce Indonesian coffee to around the world. 
                 </p>
               </div>
               <p>
@@ -38,16 +36,7 @@ const About5 = ({ pt }) => {
               </p>
               <div className="about-author-info d-flex">
                 <div className="author-name-designation  align-self-center mr-30">
-                  <h4 className="mb-0">Jerry Henson</h4>
-                  <small>/ Shop Director</small>
-                </div>
-                <div className="author-sign  align-self-center">
-                  <Image
-                    src="/img/icons/icon-img/author-sign.png"
-                    alt="#"
-                    width={35}
-                    height={500}
-                  />
+                  <h4 className="mb-0">Conation Team</h4>
                 </div>
               </div>
             </div>

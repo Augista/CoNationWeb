@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Organic Vegetables",
+    "title": "Coffee Beans",
     "services": [
       "Tire puncher with cleaning",
       "Tire Customization",
@@ -11,12 +11,12 @@
     "desc": "Lorem ipsum dolor sit amet cons ectet ur adipisicing elit sed do eiusmod te incididunt ut labore",
     "detailsImg": null,
     "img": null,
-    "category": "Organic Vegetables",
+    "category": "Coffee Beans",
     "duration": "1500"
   },
   {
     "id": 2,
-    "title": "Organic Meat",
+    "title": "Milled Coffee",
     "services": [
       "Tire puncher with cleaning",
       "Tire Customization",
@@ -26,12 +26,12 @@
     "desc": "Lorem ipsum dolor sit amet cons ectet ur adipisicing elit sed do eiusmod te incididunt ut labore",
     "detailsImg": null,
     "img": null,
-    "category": "Fresh Fruits",
+    "category": "Milled Coffee",
     "duration": "1700"
   },
   {
     "id": 3,
-    "title": "Firm Fresh Fruits",
+    "title": "Roasting",
     "services": [
       "Tire puncher with cleaning",
       "Tire Customization",
@@ -41,7 +41,7 @@
     "desc": "Lorem ipsum dolor sit amet cons ectet ur adipisicing elit sed do eiusmod te incididunt ut labore",
     "detailsImg": null,
     "img": null,
-    "category": "Health and Nutrition",
+    "category": "Roasting",
     "duration": "1900"
   },
   {

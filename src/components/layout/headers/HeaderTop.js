@@ -23,12 +23,12 @@ const HeaderTop = () => {
                 {" "}
                 <li>
                   <Link href="/locations">
-                    <i className="icon-placeholder"></i> 15/A, Nest Tower, NYC
+                    <i className="icon-placeholder"></i> Surabaya, Jawa Timur
                   </Link>
                 </li>{" "}
                 <li>
                   <Link href="mailto:info@webmail.com?Subject=Flower%20greetings%20to%20you">
-                    <i className="icon-mail"></i> info@webmail.com
+                    <i className="icon-mail"></i> #BestCoffeeForEverybody
                   </Link>
                 </li>{" "}
               </ul>

@@ -1199,7 +1199,7 @@ const main = () => {
           $this.countdown(finalDate, function (event) {
             $this.html(
               event.strftime(
-                '<div class="single"><h1>%D</h1><p>Days</p></div> <div class="single"><h1>%H</h1><p>Hrs</p></div> <div class="single"><h1>%M</h1><p>Mins</p></div> <div class="single"><h1>%S</h1><p>Secs</p></div>'
+                '<div class="single"><h1>%D</h1><p class="text-white">Days</p></div> <div class="single"><h1>%H</h1><p class="text-white">Hrs</p></div> <div class="single"><h1>%M</h1><p class="text-white">Mins</p></div> <div class="single"><h1>%S</h1><p class="text-white">Secs</p></div>'
               )
             );
           });

@@ -18,7 +18,7 @@ const Testimonials3 = ({ pt }) => {
               <h6 className="section-subtitle ltn__secondary-color">
                 {"//"} Testimonials
               </h6>
-              <h1 className="section-title">
+              <h1 className="section-title text-white">
                 Clients Feedbacks<span>.</span>
               </h1>
             </div>

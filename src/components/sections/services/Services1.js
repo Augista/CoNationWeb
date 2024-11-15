@@ -6,8 +6,8 @@ import React from "react";
 const Services1 = ({ isPrimary }) => {
   const { filteredServices, category } = useCommonContext() || {};
   const services = filteredServices?.filter(({ id }) =>
-    category ? true : id > 0 && id < (isPrimary ? 7 : 4)
-  );
+    category ? true : id > 0 && id < (isPrimary ? 7 : 4)  )
+  .slice(0, 3);
   return (
     <div className="ltn__service-area section-bg-1 pt-115 pb-70">
       <div className="container">
@@ -17,7 +17,7 @@ const Services1 = ({ isPrimary }) => {
           ) : (
             <div className="col-lg-12">
               <div className="section-title-area ltn__section-title-2 text-center">
-                <h1 className="section-title">Our Services</h1>
+                <h1 className="section-title text-white">Our Services</h1>
               </div>
             </div>
           )}

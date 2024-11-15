@@ -73,13 +73,12 @@ const Hero2 = () => {
                       <h6 className="slide-sub-title ltn__secondary-color animated">
                         {"//"} Fresh from farm
                       </h6>
-                      <h1 className="slide-title animated ">
+                      <h1 className="slide-title animated text-white">
                         Tasty & Special <br /> Organic Beans
                       </h1>
                       <div className="slide-brief animated">
-                        <p>
-                          Lorem ipsum dolor sit amet, consectetur adipisicing
-                          elit, sed do eiusmod tempor incididunt ut labore.
+                        <p className="text-white">
+                          Fresh from best farm in Various area in East Java.
                         </p>
                       </div>
                       <div className="btn-wrapper animated">
@@ -91,7 +90,7 @@ const Hero2 = () => {
                         </Link>
                         <Link
                           href="/about"
-                          className="btn btn-transparent btn-effect-3"
+                          className="btn btn-transparent btn-effect-3 text-white"
                         >
                           LEARN MORE
                         </Link>

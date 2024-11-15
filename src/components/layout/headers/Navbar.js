@@ -52,7 +52,7 @@ const Navbar = () => {
           path: "#",
           dropdownItems: [
             {
-              name: "About",
+              name: "About Us",
 
               path: "/about",
             },
@@ -61,35 +61,13 @@ const Navbar = () => {
 
               path: "/services",
             },
-            {
-              name: "Service Details",
-
-              path: "/services/1",
-            },
+            
             {
               name: "Gallery",
 
               path: "/portfolio",
             },
-            {
-              name: "Gallery - 02",
-
-              path: "/portfolio-2",
-            },
-            {
-              name: "Gallery Details",
-              path: "/portfolio/1",
-            },
-            {
-              name: "Team",
-
-              path: "/team",
-            },
-            {
-              name: "Team Details",
-
-              path: "/team/1",
-            },
+            
             {
               name: "FAQ",
 
@@ -118,30 +96,6 @@ const Navbar = () => {
               name: "Shop",
 
               path: "/shop",
-            },
-            {
-              name: "Shop Grid",
-
-              path: "/shop-grid",
-            },
-            {
-              name: "Shop Left sidebar",
-
-              path: "/shop-left-sidebar",
-            },
-            {
-              name: "Shop right sidebar",
-
-              path: "/shop-right-sidebar",
-            },
-            {
-              name: "Shop details",
-
-              path: "/products/1",
-            },
-            {
-              name: "Shop details no sidebar ",
-              path: "/shop-details-2",
             },
             {
               name: "Other Pages",
@@ -196,26 +150,7 @@ const Navbar = () => {
 
               path: "/blogs",
             },
-            {
-              name: "News Grid",
-
-              path: "/blogs-grid",
-            },
-            {
-              name: "News Left sidebar",
-
-              path: "/blog-left-sidebar",
-            },
-            {
-              name: "News Right sidebar",
-
-              path: "/blog-right-sidebar",
-            },
-            {
-              name: "News details",
-
-              path: "/blogs/1",
-            },
+            
           ],
         },
       ],
@@ -226,33 +161,13 @@ const Navbar = () => {
       dropdown: null,
       dropdownSection: [
         {
-          title: "Inner Pages",
+          title: "History Pages",
           path: "#",
           dropdownItems: [
             {
-              name: "Gallery",
+              name: "History",
 
-              path: "/portfolio",
-            },
-            {
-              name: "Gallery - 02",
-
-              path: "/portfolio-2",
-            },
-            {
-              name: "Gallery",
-
-              path: "/portfolio/1",
-            },
-            {
-              name: "Team",
-
-              path: "/team",
-            },
-            {
-              name: "Team Details",
-
-              path: "/team/1",
+              path: "/history",
             },
             {
               name: "FAQ",
@@ -262,33 +177,13 @@ const Navbar = () => {
           ],
         },
         {
-          title: "Inner Pages",
+          title: "Coming Pages",
           path: "#",
           dropdownItems: [
-            {
-              name: "History",
-
-              path: "/history",
-            },
-            {
-              name: "Appointment",
-
-              path: "/contact",
-            },
             {
               name: "Google Map Locations",
 
               path: "/locations",
-            },
-            {
-              name: "404",
-
-              path: "/error",
-            },
-            {
-              name: "Contact",
-
-              path: "/contact",
             },
             {
               name: "Coming Soon",
@@ -298,38 +193,13 @@ const Navbar = () => {
           ],
         },
         {
-          title: "Shop Pages",
+          title: "Error Pages",
           path: "#",
           dropdownItems: [
             {
-              name: "Shop",
+              name: "404",
 
-              path: "/shop",
-            },
-            {
-              name: "Shop Left sidebar",
-
-              path: "/shop-left-sidebar",
-            },
-            {
-              name: "Shop right sidebar",
-
-              path: "/shop-right-sidebar",
-            },
-            {
-              name: "Shop Grid",
-
-              path: "/shop-grid",
-            },
-            {
-              name: "Shop details",
-
-              path: "/products/1",
-            },
-            {
-              name: "Cart",
-
-              path: "/cart",
+              path: "/error",
             },
           ],
         },

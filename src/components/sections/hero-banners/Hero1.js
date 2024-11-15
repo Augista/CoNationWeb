@@ -22,7 +22,7 @@ const Hero1 = () => {
                         />{" "}
                         100% genuine Products
                       </h6>
-                      <h1 className="slide-title animated ">
+                      <h1 className="slide-title animated">
                         Tasty & Healthy <br /> Organic Food
                       </h1>
                       <div className="btn-wrapper animated">
@@ -86,7 +86,7 @@ const Hero1 = () => {
                         </Link>{" "}
                         <Link
                           href="/about"
-                          className="btn btn-transparent btn-effect-3"
+                          className="btn btn-transparent btn-effect-white"
                         >
                           LEARN MORE
                         </Link>
