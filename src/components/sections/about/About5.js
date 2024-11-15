@@ -26,7 +26,7 @@ const About5 = ({ pt }) => {
                   Co <br className="d-none d-md-block" /> Nation
                 </h1>
                 <p>
-                comes from the "Coffee Nation" which means we want to introduce Indonesian coffee to around the world. 
+                comes from the &quot;Coffee Nation&quot; which means we want to introduce Indonesian coffee to the world. 
                 </p>
               </div>
               <p>
@@ -36,7 +36,7 @@ const About5 = ({ pt }) => {
               </p>
               <div className="about-author-info d-flex">
                 <div className="author-name-designation  align-self-center mr-30">
-                  <h4 className="mb-0">Conation Team</h4>
+                  <h4 className="mb-0">#RootToRoast</h4>
                 </div>
               </div>
             </div>
