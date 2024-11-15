@@ -36,7 +36,7 @@ const About5 = ({ pt }) => {
               </p>
               <div className="about-author-info d-flex">
                 <div className="author-name-designation  align-self-center mr-30">
-                  <h4 className="mb-0">#RootToRoast</h4>
+                  <h4 className="mb-0">#RootsToRoast</h4>
                 </div>
               </div>
             </div>

@@ -19,8 +19,8 @@ const rajdhani = Rajdhani({
 });
 
 export const metadata = {
-  title: "CoNation - One Stop Solution",
-  description: "CoNation - One Stop Solution",
+  title: "CoNation - Roots to Roast ",
+  description: "CoNation - Roots to Roast",
 };
 
 export default function RootLayout({ children }) {

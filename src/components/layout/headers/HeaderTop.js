@@ -28,7 +28,7 @@ const HeaderTop = () => {
                 </li>{" "}
                 <li>
                   <Link href="mailto:info@webmail.com?Subject=Flower%20greetings%20to%20you">
-                    <i className=""></i> #RootToRoast
+                    <i className=""></i> #RootsToRoast
                   </Link>
                 </li>{" "}
               </ul>
